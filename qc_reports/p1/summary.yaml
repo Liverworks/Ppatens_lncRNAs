@@ -1,0 +1,57 @@
+input file: laba/jule/sequencing_summary_prot1.txt
+All reads:
+  total.gigabases: 1.3259205
+  total.reads: 1860346
+  N50.length: 960.0
+  mean.length: 712.7
+  median.length: 607.0
+  max.length: 73641.0
+  mean.q: 9.3
+  median.q: 9.7
+  reads:
+    '>10kb': 19
+    '>20kb': 5
+    '>50kb': 1
+    '>100kb': 0
+    '>200kb': 0
+    '>500kb': 0
+    '>1m': 0
+    ultralong: 0.0
+  gigabases:
+    '>10kb': 0.0003675
+    '>20kb': 0.0001901
+    '>50kb': 7.3641e-05
+    '>100kb': 0.0
+    '>200kb': 0.0
+    '>500kb': 0.0
+    '>1m': 0.0
+    ultralong: 0.0
+Q>=7:
+  total.gigabases: 1.2423913
+  total.reads: 1638944
+  N50.length: 980.0
+  mean.length: 758.0
+  median.length: 655.0
+  max.length: 7401.0
+  mean.q: 9.9
+  median.q: 9.9
+  reads:
+    '>10kb': 0
+    '>20kb': 0
+    '>50kb': 0
+    '>100kb': 0
+    '>200kb': 0
+    '>500kb': 0
+    '>1m': 0
+    ultralong: 0.0
+  gigabases:
+    '>10kb': 0.0
+    '>20kb': 0.0
+    '>50kb': 0.0
+    '>100kb': 0.0
+    '>200kb': 0.0
+    '>500kb': 0.0
+    '>1m': 0.0
+    ultralong: 0.0
+notes: ultralong reads refers to the largest set of reads with N50>100KB
+

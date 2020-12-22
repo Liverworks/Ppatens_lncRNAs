@@ -1,0 +1,57 @@
+input file: /media/fastq/moss/g3/sequencing_summary.txt
+All reads:
+  total.gigabases: 1.4852919
+  total.reads: 1315620
+  N50.length: 1362.0
+  mean.length: 1129.0
+  median.length: 941.0
+  max.length: 58160.0
+  mean.q: 10.5
+  median.q: 10.8
+  reads:
+    '>10kb': 67
+    '>20kb': 16
+    '>50kb': 1
+    '>100kb': 0
+    '>200kb': 0
+    '>500kb': 0
+    '>1m': 0
+    ultralong: 0.0
+  gigabases:
+    '>10kb': 0.0011614
+    '>20kb': 0.0004711
+    '>50kb': 5.816e-05
+    '>100kb': 0.0
+    '>200kb': 0.0
+    '>500kb': 0.0
+    '>1m': 0.0
+    ultralong: 0.0
+Q>=7:
+  total.gigabases: 1.4408101
+  total.reads: 1256244
+  N50.length: 1366.0
+  mean.length: 1146.9
+  median.length: 958.0
+  max.length: 58160.0
+  mean.q: 10.8
+  median.q: 10.9
+  reads:
+    '>10kb': 17
+    '>20kb': 3
+    '>50kb': 1
+    '>100kb': 0
+    '>200kb': 0
+    '>500kb': 0
+    '>1m': 0
+    ultralong: 0.0
+  gigabases:
+    '>10kb': 0.0002906
+    '>20kb': 0.0001236
+    '>50kb': 5.816e-05
+    '>100kb': 0.0
+    '>200kb': 0.0
+    '>500kb': 0.0
+    '>1m': 0.0
+    ultralong: 0.0
+notes: ultralong reads refers to the largest set of reads with N50>100KB
+
